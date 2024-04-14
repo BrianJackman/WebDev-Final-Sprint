@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Elden Ring",
+      "developer": "From Software",
+      "genre": "Action RPG",
+      "release date": "February 25, 2022",
+      "platform": "PS4, PS5, Xbox One, Xbox Series X/S, PC",
+      "initial price(CAD)": 79.99
+    },
+    {
+      "title": "Rise of the Ronin",
+      "developer": "Team Ninja",
+      "genre": "Action RPG",
+      "release date": "March 22, 2024",
+      "platform": "PS5",
+      "initial price(CAD)": 89.99
+    },
+    {
+      "title": "Ogre Battle 64: Person of Lordly Caliber",
+      "developer": "Quest Corporation",
+      "genre": "Tactical RPG",
+      "release date": "July 14, 1999",
+      "platform": "N64",
+      "initial price(CAD)": 69.99 
+    },
+    {
+      "title": "Final Fantasy XVI",
+      "developer": "Square Enix",
+      "genre": "Action RPG",
+      "release date": "June 22, 2023",
+      "platform": "PS5",
+      "initial price(CAD)": 89.99
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "developer": "Nintendo",
+      "genre": "Action - Adventure",
+      "release date": "March 3, 2017",
+      "platform": "Switch",
+      "initial price(CAD)": 79.99
+    }
+  ]
